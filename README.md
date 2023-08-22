@@ -4,7 +4,7 @@ Hi 👋 My name is Ashish Singh
 Software Engineer - Java Developer | Rest API | Java Development | Spring Boot | Back-End Developer | JavaScript | jQuery
 -------------------------------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Noida
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [ashishsingh.per@gmail.com](mailto:ashishsingh.per@gmail.com)
 * 🧠  I'm learning ReactJS and NodeJS
 * 🤝  I'm open to collaborating on projects with Java at backend and JavaScript for DOM manipulation.
