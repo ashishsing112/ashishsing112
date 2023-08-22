@@ -8,7 +8,6 @@ Software Engineer - Java Developer | Rest API | Java Development | Spring Boot |
 * ✉️  You can contact me at [ashishsingh.per@gmail.com](mailto:ashishsingh.per@gmail.com)
 * 🧠  I'm learning ReactJS and NodeJS
 * 🤝  I'm open to collaborating on projects with Java at backend and JavaScript for DOM manipulation.
-* ⚡  I am edit videos.
 
 ### Skills
 
